@@ -1,0 +1,1 @@
+print(f"{' ' : <5}{'nama_barang' : <20}{'jumlah_barang' :<17}{'harga_barang' :<17}{'total_harga' :<15}{'tanggal_pembayaran' :<13}")
